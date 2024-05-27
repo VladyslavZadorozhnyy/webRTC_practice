@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "70358264671",
+    "firebase_url": "https://webrtcpractice-3d934-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "webrtcpractice-3d934",
+    "storage_bucket": "webrtcpractice-3d934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70358264671:android:6957ee24bace20082a24ea",
+        "android_client_info": {
+          "package_name": "com.example.webrtcpracticeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-Zo9sczU0FbdzRhHxSzAF9giO4bqD4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
